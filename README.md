@@ -1,3 +1,7 @@
+# My name is Leimomi Bong. I'm a student at Ada Developers Academy.
+
+Here is a change I've made to the README file. Thank you.
+
 # Python FizzBuzz
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
